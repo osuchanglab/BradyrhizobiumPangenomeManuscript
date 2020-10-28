@@ -1,0 +1,3 @@
+SymICE and symbiosis plasmid sequences from complete and draft strains. Draft strain regions are based on mapping of contigs to complete SIs and may lack some SI genes. Contig breaks are indicated by 'spacer_#'
+
+large and small regions of bipartite symICEs are included in a single combined file.

@@ -1,0 +1,1 @@
+These are the annotated assemblies and symICE/symbiosis plasmid contigs used in this analysis.

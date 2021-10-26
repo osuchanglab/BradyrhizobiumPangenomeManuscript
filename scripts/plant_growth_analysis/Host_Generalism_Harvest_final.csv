@@ -1,0 +1,266 @@
+Block,Plant_ID,Species,Treatment,Nodules,Comment,Date
+Small,1,AcS,187,0,,12/2/2019
+Small,2,AcS,187,0,,12/2/2019
+Small,3,AcS,187,3,,12/2/2019
+Small,4,AcS,187,0,,
+Large,5,AcS,187,3,,12/1/2019
+Large,6,AcS,187,0,,12/1/2019
+Small,7,Suc,187,18,"white, irregular shape",12/4/2019
+Small,8,Suc,187,1,"large, pale",12/4/2019
+Large,9,Suc,187,24,black nodules,12/1/2019
+Small,10,Suc,187,0,,12/4/2019
+Large,11,Suc,187,0,,12/1/2019
+Large,12,Suc,187,7,,12/1/2019
+Small,13,Suc,187,2,abnormally large ,12/4/2019
+Large,14,Nan,187,0,,12/1/2019
+Large,15,Nan,187,7,pink mixed sized nodules,11/30/2019
+Small,16,Nan,187,0,,11/5/2019
+Small,17,Nan,187,0,,12/4/2019
+Small,18,Nan,187,10,pinkish,12/2/2019
+Large,19,Nan,187,5,small nodules,11/30/2019
+Small,20,Nan,187,1,whitish,12/2/2019
+Small,21,AcW,187,0,,12/4/2019
+Small,22,AcW,187,0,,12/4/2019
+Small,23,AcW,187,0,,12/2/2019
+Small,24,AcW,187,0,,12/4/2019
+Small,25,AcW,187,0,,12/5/2019
+Large,26,AcW,187,0,,12/1/2019
+Small,27,AcW,187,0,,12/4/2019
+Large,28,Bic,187,0,dead,11/26/2019
+Large,29,Bic,187,0,,12/1/2019
+Small,30,Bic,187,0,,12/4/2019
+Small,31,Bic,187,0,dead,12/4/2019
+Small,32,Bic,187,0,,12/4/2019
+Large,33,Bic,187,5,pinkish nodules,11/30/2019
+Large,34,AcS,156,5,,12/1/2019
+Small,35,AcS,156,0,,12/2/2019
+Large,36,AcS,156,0,,12/1/2019
+Small,37,AcS,156,0,,
+Small,38,AcS,156,6,,12/2/2019
+Small,39,AcS,156,9,,12/5/2019
+Small,40,Suc,156,11,,12/2/2019
+Small,41,Suc,156,0,,12/2/2019
+Small,42,Suc,156,0,,12/2/2019
+Large,43,Suc,156,0,,12/11/2019
+Small,44,Suc,156,2,,12/5/2019
+Small,45,Suc,156,0,dead,10/30/2019
+Large,46,Suc,156,3,,12/1/2019
+Small,47,Nan,156,0,,12/5/2019
+Small,48,Nan,156,0,,12/2/2019
+Small,49,Nan,156,8,,5/4/1900
+Small,50,Nan,156,0,,
+Small,51,Nan,156,1,pinkish,12/5/2019
+Small,52,Nan,156,0,,12/2/2019
+Small,53,Nan,156,8,,12/5/2019
+Small,54,AcW,156,0,,12/2/2019
+Small,55,AcW,156,0,dead,11/26/2019
+Large,56,AcW,156,0,,12/1/2019
+Large,57,AcW,156,0,,12/1/2019
+Small,58,AcW,156,0,dead,11/6/2019
+Small,59,AcW,156,0,,12/2/2019
+Small,60,AcW,156,0,,12/5/2019
+Small,61,Bic,156,0,dead,11/22/2019
+Small,62,Bic,156,1,,12/2/2019
+Large,63,Bic,156,0,dead,11/22/2019
+Small,64,Bic,156,1,,12/5/2019
+Large,65,Bic,156,0,no nodules,12/1/2019
+Large,66,Bic,156,0,dead,11/27/2019
+Large,67,AcS,2,0,dead,10/30/2019
+Small,68,AcS,2,1,greenish/white,12/5/2019
+Small,69,AcS,2,0,no nodules (very small plant),12/3/2019
+Large,70,AcS,2,3,,12/1/2019
+Small,71,AcS,2,0,,12/5/2019
+Large,72,AcS,2,11,pale/small,12/1/2019
+Small,73,Suc,2,0,,
+Small,74,Suc,2,0,,12/5/2019
+Large,75,Suc,2,13,"large, irregular",12/1/2019
+Small,76,Suc,2,0,no nodules,12/3/2019
+Large,77,Suc,2,0,,12/1/2019
+Small,78,Suc,2,5,white ,12/3/2019
+Small,79,Nan,2,0,roots are green,12/5/2019
+Small,80,Nan,2,0,,12/3/2019
+Small,81,Nan,2,0,,12/5/2019
+Small,82,Nan,2,0,,12/4/2019
+Small,83,Nan,2,0,,12/3/2019
+Small,84,Nan,2,0,,12/5/2019
+Small,85,Nan,2,0,,12/4/2019
+Small,86,AcW,2,0,,12/5/2019
+Small,87,AcW,2,0,no nodules,12/3/2019
+Small,88,AcW,2,0,,12/5/2019
+Small,89,AcW,2,0,,12/5/2019
+Small,90,AcW,2,0,,12/5/2019
+Large,91,AcW,2,0,,12/11/2019
+Large,92,AcW,2,0,,12/11/2019
+Large,93,Bic,2,0,dead,11/30/2019
+Small,94,Bic,2,2,,12/5/2019
+Small,95,Bic,2,0,,12/5/2019
+Small,96,Bic,2,0,dead,11/5/2019
+Large,97,Bic,2,0,dead,11/26/2019
+Large,98,Bic,2,0,,12/1/2019
+Small,99,AcS,131,0,,
+Small,100,AcS,131,3,small plants + nodules,12/5/2019
+Large,101,AcS,131,2,,12/1/2019
+Small,102,AcS,131,4,small nodules,12/4/2019
+Small,103,AcS,131,6,small,12/4/2019
+Small,104,AcS,131,0,dead,11/1/2000
+Small,105,Suc,131,0,dead,11/5/2019
+Large,106,Suc,131,12,very pale,12/1/2019
+Small,107,Suc,131,0,,12/5/2019
+Large,108,Suc,131,0,,12/1/2019
+Large,109,Suc,131,2,"not round, abnormally large",12/1/2019
+Large,110,Suc,131,20,pale ,12/1/2019
+Small,111,Nan,131,10,pale,12/4/2019
+Small,112,Nan,131,11,small nodules,12/4/2019
+Small,113,Nan,131,0,,12/4/2019
+Large,114,Nan,131,14,mixed color,11/30/2019
+Small,115,Nan,131,1,large,12/4/2019
+Small,116,Nan,131,13,cluster of nodules,12/4/2019
+Small,117,Nan,131,16,small/medium size nodules,12/4/2019
+Small,118,AcW,131,0,dead,11/20/2019
+Small,119,AcW,131,0,,12/4/2019
+Small,120,AcW,131,0,dead,11/20/2019
+Small,121,AcW,131,0,,12/2/2019
+Large,122,AcW,131,0,,12/1/2019
+Large,123,AcW,131,0,,12/1/2019
+Small,124,AcW,131,0,,12/5/2019
+Small,125,Bic,131,10,pale,12/4/2019
+Small,126,Bic,131,2,large nodules,12/4/2019
+Small,127,Bic,131,1,small,12/4/2019
+Large,128,Bic,131,0,dead,11/20/2019
+Large,129,Bic,131,0,dead,11/22/2019
+Small,130,Bic,131,0,dead,12/4/2019
+Large,131,AcS,200,2,,12/1/2019
+Small,132,AcS,200,0,small plant ,12/2/2019
+Small,133,AcS,200,0,small plant ,12/5/2019
+Small,134,AcS,200,0,dead,11/26/2019
+Small,135,AcS,200,0,,12/2/2019
+Small,136,AcS,200,0,,12/5/2019
+Small,137,AcS,200,0,,12/5/2019
+Large,138,Suc,200,6,large/pale,12/1/2019
+Small,139,Suc,200,3,might be nodules,12/5/2019
+Large,140,Suc,200,0,,12/1/2019
+Large,141,Suc,200,0,,12/1/2019
+Small,142,Suc,200,6,might be nodules ,12/5/2019
+Small,143,Suc,200,0,,12/5/2019
+Small,144,Suc,200,0,,12/5/2019
+Large,145,Nan,200,4,pinkish nodules,11/30/2019
+Small,146,Nan,200,21,pinkish nodules,12/2/2019
+Small,147,Nan,200,3,pinkish white,12/5/2019
+Large,148,Nan,200,0,,11/30/2019
+Small,149,Nan,200,0,,12/2/2019
+Large,150,Nan,200,0,,11/30/2019
+Small,151,Nan,200,0,,12/2/2019
+Small,152,AcW,200,0,,12/5/2019
+Small,153,AcW,200,0,,12/5/2019
+Small,154,AcW,200,0,,12/5/2019
+Large,155,AcW,200,0,,12/1/2019
+Small,156,AcW,200,0,,12/5/2019
+Small,157,AcW,200,0,,12/5/2019
+Small,158,AcW,200,0,,12/5/2019
+Small,159,Bic,200,0,small plant,12/2/2019
+Small,160,Bic,200,0,dead,11/22/2019
+Small,161,Bic,200,0,dead,11/22/2019
+Small,162,Bic,200,1,small plant,12/2/2019
+Small,163,Bic,200,0,dead,10/30/2019
+Small,164,Bic,200,0,dead,11/22/2019
+Small,165,Bic,4,0,,12/4/2019
+Small,166,Bic,4,5,rough in shape (not circular),12/4/2019
+Small,167,Bic,4,16,,12/3/2019
+Small,168,Bic,4,0,dead,11/22/2019
+Small,169,Bic,4,8,pink,12/3/2019
+Small,170,Bic,4,0,,12/3/2019
+Large,171,AcW,4,0,,12/1/2019
+Small,172,AcW,4,0,dead,11/26/2019
+Small,173,AcW,4,0,,12/2/2019
+Large,174,AcW,4,0,,12/1/2019
+Small,175,AcW,4,0,,12/3/2019
+Large,176,AcW,4,0,,12/1/2019
+Small,177,AcW,4,0,,12/2/2019
+Small,178,Nan,4,4,,12/3/2019
+Small,179,Nan,4,0,dead,12/4/2019
+Small,180,Nan,4,11,small,12/4/2019
+Small,181,Nan,4,0,,12/2/2019
+Large,182,Nan,4,0,,11/30/2019
+Small,183,Nan,4,3,whitish,12/2/2019
+Small,184,Nan,4,15,whitish,12/5/2019
+Small,185,Suc,4,5,whitish,12/4/2019
+Small,186,Suc,4,3,whitish,12/4/2019
+Large,187,Suc,4,0,,12/1/2019
+Small,188,Suc,4,0,,12/5/2019
+Small,189,Suc,4,0,,12/5/2019
+Small,190,Suc,4,0,,12/3/2019
+Large,191,Suc,4,18,black/pale nodules,12/1/2019
+Large,192,AcS,4,0,,12/1/2019
+Small,193,AcS,4,7,small,12/4/2019
+Small,194,AcS,4,4,pink,12/5/2019
+Large,195,AcS,4,2,pink with white stripe,12/1/2019
+Small,196,AcS,4,0,small plant,12/5/2019
+Small,197,AcS,4,2,pinkish,12/2/2019
+Small,198,Bic,H2O,0,,12/5/2019
+Large,199,Bic,H2O,0,dead,11/26/2019
+Large,200,Bic,H2O,0,,11/26/2019
+Small,201,Bic,H2O,0,dead,1/5/2019
+Small,202,Bic,H2O,0,,12/5/2019
+Small,203,Bic,H2O,0,,12/6/2019
+Large,204,AcW,H2O,0,,12/2/2019
+Large,205,AcW,H2O,0,,12/2/2019
+Large,206,AcW,H2O,0,,12/1/2019
+Large,207,AcW,H2O,0,,12/2/2019
+Large,208,AcW,H2O,0,dead,11/26/2019
+Large,209,AcW,H2O,0,,
+Small,210,AcW,H2O,0,dead,11/5/2019
+Large,211,Nan,H2O,0,,11/30/2019
+Large,212,Nan,H2O,0,,11/30/2019
+Small,213,Nan,H2O,0,,12/6/2019
+Large,214,Nan,H2O,0,,11/30/2019
+Large,215,Nan,H2O,0,,11/30/2019
+Small,216,Nan,H2O,0,,12/6/2019
+Small,217,Nan,H2O,0,,12/5/2019
+Small,218,Suc,H2O,0,,12/5/2019
+Large,219,Suc,H2O,0,,12/2/2019
+Small,220,Suc,H2O,0,,12/5/2019
+Small,221,Suc,H2O,0,,12/5/2019
+Small,222,Suc,H2O,0,,12/5/2019
+Large,223,Suc,H2O,0,,12/2/2019
+Large,224,Suc,H2O,0,,12/2/2019
+Small,225,AcS,H2O,0,,12/6/2019
+Small,226,AcS,H2O,0,,12/6/2019
+Small,227,AcS,H2O,0,,12/6/2019
+Small,228,AcS,H2O,0,,12/6/2019
+Small,229,AcS,H2O,0,,12/5/2019
+Large,230,AcS,H2O,0,dead,11/26/2019
+Small,231,AcS,186,1,pink with white stripe,12/1/2019
+Small,232,AcS,186,1,pink nodules,12/5/2019
+Small,233,AcS,186,1,"small, pink with stripe",12/2/2019
+Large,234,AcS,186,5,pink with stripe,12/1/2019
+Small,235,AcS,186,10,pink with stripe,12/2/2019
+Small,236,AcS,186,0,,12/3/2019
+Large,237,Suc,186,14,,12/1/2019
+Small,238,Suc,186,0,,
+Small,239,Suc,186,0,,12/4/2019
+Small,240,Suc,186,0,,12/3/2019
+Small,241,Suc,186,0,,12/2/2019
+Small,242,Suc,186,9,"brown, irregular shape",12/2/2019
+Large,243,Suc,186,0,,12/11/2019
+Small,244,Nan,186,10,"small, pale",12/3/2019
+Small,245,Nan,186,7,"small, pale",12/2/2019
+Small,246,Nan,186,3,"big nodule, irregular shapes",12/2/2019
+Large,247,Nan,186,14,cluster of nodules ,11/30/2019
+Small,248,Nan,186,0,,12/2/2019
+Small,249,Nan,186,11,cluster of nodules ,1/5/2019
+Small,250,Nan,186,14,cluster of nodules ,12/3/2019
+Small,251,AcW,186,0,,12/2/2019
+Small,252,AcW,186,2,"small, pale nodules",12/2/2019
+Large,253,AcW,186,0,,11/20/2019
+Small,254,AcW,186,0,knotted roots,12/3/2019
+Small,255,AcW,186,0,,11/5/2019
+Small,256,AcW,186,0,,12/2/2019
+Small,257,AcW,186,0,,12/3/2019
+Large,258,Bic,186,0,small shoot,11/30/2019
+Small,259,Bic,186,15,pinkish,12/3/2019
+Large,260,Bic,186,21,"big plant, pink nodule",11/30/2019
+Large,261,Bic,186,17,"big plant, pink nodules",11/30/2019
+Large,262,Bic,186,0,very small shoot,11/30/2019
+Small,263,Bic,186,5,"small, pinkish brown",12/3/2019
+Small,264,Suc,131,0,,12/2/2019
+,,,,  ,,

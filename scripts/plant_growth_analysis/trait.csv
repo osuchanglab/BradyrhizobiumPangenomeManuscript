@@ -1,0 +1,9 @@
+Fix,T3SS,Treatment,Trait
+plus,plus,4,4 Fix+T3SS+
+plus,plus,131,131 Fix+T3SS+
+minus,plus,186,186 Fix-T3SS+
+minus,plus,156,156 Fix-T3SS+
+minus,minus,187,187 Fix-T3SS-
+minus,minus,200,200 Fix-T3SS-
+minus,partial,2,2 Fix-T3SSpartial
+control,control,H2O,Control

@@ -1,6 +1,6 @@
 ## Scripts for the scaffolding of draft genomes against completely assembled genomes, as well as extracting regions corresponding to symICEs.
 
-These scripts were tested on Linux but should work on Windows or Mac environments. They require CONTIGuator and BioPython to be installed.
+These scripts were tested on Linux but should work on Windows or Mac environments. They require CONTIGuator and BioPython to be installed. Installation just requires downloading the scripts and installing dependencies.
 
 #### Align contigs from draft genomes to the most similar complete/hybrid assembled genome using CONTIGuator (tested with v. 2.7):
 

@@ -1,1 +1,1 @@
-Extended Figures and Tables/Datasets
+Extended Figures and Datasets
